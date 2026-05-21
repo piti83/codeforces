@@ -1,0 +1,8 @@
+[
+    {
+        "label": "Compile and Run C++ with Input",
+        "command": "cd $ZED_DIRNAME && g++ -std=c++17 -Wall -Wextra -Wshadow -fsanitize=address -o solution $ZED_FILE && ./solution < input.txt",
+        "use_new_terminal": false,
+        "allow_concurrent_runs": false,
+    },
+]
