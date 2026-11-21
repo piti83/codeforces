@@ -19,8 +19,6 @@ Binaries go to `build/`. A solution is only recompiled when its source changed.
 
 ## Problems
 
-`[x]` solved, `[ ]` to do.
-
 | Status | Problem | Name | Solution | Submission |
 |--------|---------|------|----------|------------|
 | :heavy_check_mark: | [4A](https://codeforces.com/contest/4/problem/A)        | Watermelon            | [4A.cpp](solutions/4A.cpp)        | [399208055](https://codeforces.com/contest/4/submission/399208055)    |
