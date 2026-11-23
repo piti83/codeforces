@@ -21,10 +21,13 @@ Binaries go to `build/`. A solution is only recompiled when its source changed.
 
 | Status | Problem | Name | Solution | Submission |
 |--------|---------|------|----------|------------|
-| :heavy_check_mark: | [4A](https://codeforces.com/contest/4/problem/A)          | Watermelon            | [4A.cpp](solutions/4A.cpp)        | [399208055](https://codeforces.com/contest/4/submission/399208055)    |
-| :heavy_check_mark: | [71A](https://codeforces.com/contest/71/problem/A)        | Way Too Long Words    | [71A.cpp](solutions/71A.cpp)      | [399213290](https://codeforces.com/contest/71/submission.399213290)   |
-| :heavy_check_mark: | [158A](https://codeforces.com/contest/158/problem/A)      | Next Round            | [158A.cpp](solutions/158A.cpp)    | [399224933](https://codeforces.com/contest/158/submission/399224933)  |
-| :heavy_check_mark: | [231A](https://codeforces.com/contest/231/problem/A)      | Team                  | [231A.cpp](solutions/231A.cpp)    | [399219042](https://codeforces.com/contest/231/submission/399219042)  |
-| :heavy_check_mark: | [282A](https://codeforces.com/contest/282/problem/A)      | Bit++                 | [282A.cpp](solutions/282A.cpp)    | [399219751](https://codeforces.com/contest/282/submission/399219751)  |
-| :heavy_check_mark: | [1901A](https://codeforces.com/contest/1901/problem/A)    | Line Trip             | [1901A.cpp](solutions/1901A.cpp)  | [399253929](https://codeforces.com/contest/1901/submission/399253929) |
-| :heavy_check_mark: | [1900A](https://codeforces.com/problemset/problem/1900/A) | Cover In Water        | [1900A.cpp](solutions/1900A.cpp)  | [399558578](https://codeforces.com/contest/1900/submission/399558578) |
+| :heavy_check_mark: | [4A](https://codeforces.com/contest/4/problem/A)          | Watermelon            | [4A.cpp](solutions/4A.cpp)        | [399208055](https://codeforces.com/contest/4/submission/399208055)       |  
+| :heavy_check_mark: | [71A](https://codeforces.com/contest/71/problem/A)        | Way Too Long Words    | [71A.cpp](solutions/71A.cpp)      | [399213290](https://codeforces.com/contest/71/submission.399213290)      |
+| :heavy_check_mark: | [158A](https://codeforces.com/contest/158/problem/A)      | Next Round            | [158A.cpp](solutions/158A.cpp)    | [399224933](https://codeforces.com/contest/158/submission/399224933)     |
+| :heavy_check_mark: | [231A](https://codeforces.com/contest/231/problem/A)      | Team                  | [231A.cpp](solutions/231A.cpp)    | [399219042](https://codeforces.com/contest/231/submission/399219042)     |
+| :heavy_check_mark: | [282A](https://codeforces.com/contest/282/problem/A)      | Bit++                 | [282A.cpp](solutions/282A.cpp)    | [399219751](https://codeforces.com/contest/282/submission/399219751)     |
+| :heavy_check_mark: | [1896A](https://codeforces.com/problemset/problem/1896/A) | Jagged Swaps          | [1896A.cpp](solutions/1896A.cpp)  | [399620434](https://codeforces.com/problemset/submission/1896/399620434) |
+| :heavy_check_mark: | [1899A](https://codeforces.com/problemset/problem/1899/A) | Game With Integers    | [1899A.cpp](solutions/1899A.cpp)  | [399618167](https://codeforces.com/problemset/submission/1899/399618167) |
+| :heavy_check_mark: | [1900A](https://codeforces.com/problemset/problem/1900/A) | Cover In Water        | [1900A.cpp](solutions/1900A.cpp)  | [399558578](https://codeforces.com/contest/1900/submission/399558578)    |
+| :heavy_check_mark: | [1901A](https://codeforces.com/contest/1901/problem/A)    | Line Trip             | [1901A.cpp](solutions/1901A.cpp)  | [399253929](https://codeforces.com/contest/1901/submission/399253929)    |
+| :heavy_check_mark: | [1903A](https://codeforces.com/problemset/problem/1903/A) | Halloumi Boxes        | [1903A.cpp](solutions/1903A.cpp)  | [399617383](https://codeforces.com/problemset/submission/1903/399617383) |
